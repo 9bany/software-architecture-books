@@ -1,18 +1,12 @@
+> forked from: https://github.com/mhadidg/software-architecture-books
+
 # Software Architecture Books
 
-A comprehensive list of books on Software Architecture.
-
-People in the software industry have long argued about a definition of architecture. Ralph Johnson famously defined
-software architecture as "the important stuff (whatever that is)." I, subjectively, followed his definition while
-deciding whether or not to include a specific book.
+## Refs
+- ref site you need to read: [tagged with software-architecture](https://www.goodreads.com/shelf/show/software-architecture)
 
 ## Table of Contents
 
-- [What is this? (important)](#what-is-this)
-- [How did I make this?](#how-did-i-make-this)
-- [What should I read?](#what-should-i-read)
-- [Inclusion criteria](#inclusion-criteria)
-- [Sorting criteria](#sorting-criteria)
 - [Books](#books)
     - [System Architecture](#system-architecture)
     - [Design Patterns](#design-patterns)
@@ -27,48 +21,6 @@ deciding whether or not to include a specific book.
     - [DevOps](#devops)
     - [General](#general)
 - [Find me at Goodreads](https://www.goodreads.com/user/show/63237197)
-
-## What is this?
-
-This is NOT a recommendation list. When I made this, I intended for a comprehensive list excluding low-profile books—see
-inclusion criteria below. There was a simple reason behind that: I'm not a subject-matter expert on all these topics. In
-fact, I not a subject-matter expert on even a single topic of these. More importantly, I don't know your experience
-level nor your preferences. Some people prefer theoretical over practical books (I do). Others prefer foundational over
-comprehensive books or dry over engaging books or art-based over engineering-based books. Some people even enjoy verbose
-over concise books. Or and or and or.
-
-## How did I make this?
-
-I thoroughly reviewed all books
-[tagged with software-architecture](https://www.goodreads.com/shelf/show/software-architecture) on Goodreads and applied
-a simple algorithmic rules—see the inclusion criteria below. I don't think the list is perfectly comprehensive. Yet, I'm
-planning to update it regularly to make it as comprehensive as possible.
-
-## What should I read?
-
-Don't be overwhelmed by the number of books on each subject. Practically speaking, you are supposed to read a few books
-on the subjects of your interest. Deciding what to read is your business. Personally, I start by reading a couple of
-reviews on Goodreads and examine the book table of content, if available. When in doubt, I read more reviews over the
-internet from blogs and the like. Alternatively, you may go with the Goodreads community preferences and start from the
-top of each list if you don't have the time to read reviews.
-
-## Inclusion criteria
-
-- The book must be relevant to Software Architecture; and
-- The content is not obsolete.
-- It must be technology agnostic or applicable to a wide range of technologies; and
-- The book profile on Goodreads matches these rules:
-    - An average rating of 3.5 or above; and
-    - A total number of ratings equals 50 or above.
-    - At least 5 written reviews.
-    - A minimum length of 50 pages.
-
-## Sorting criteria
-
-The books are sorted solely based on the number of **written** reviews. There are, however, other important factors
-worth considering. For example, the average rating, the number of ratings, and the publishing date. Yet, I don't have an
-idea to put all these factors in a reasonable mathematical formula. If you have
-any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/issues/new) what you've got in mind.
 
 ## Books
 
@@ -238,7 +190,7 @@ any, [I'd love to hear](https://github.com/mhadidg/software-architecture-books/i
 | Composing Software                                                                                                                        | 9781661212568 | [3.88](https://www.goodreads.com/book/show/43429039)  | 85     | 2018       |
 | Software Security: Building Security in                                                                                                   | 9780321356703 | [3.63](https://www.goodreads.com/book/show/760789)    | 82     | 2006       |
 | 14 Habits of Highly Productive Developers                                                                                                 | 9781735266534 | [4.05](https://www.goodreads.com/book/show/54438214)  | 195    | 2020       |
-## Licence
 
+## Licence
 This work is licensed under
 a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
