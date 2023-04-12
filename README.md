@@ -20,7 +20,8 @@
     - [Agile](#agile)
     - [DevOps](#devops)
     - [General](#general)
-- [Find me at Goodreads](https://www.goodreads.com/user/show/63237197)
+
+- [Licence](#licence)
 
 ## Books
 
